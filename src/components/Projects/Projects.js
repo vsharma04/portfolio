@@ -68,7 +68,7 @@ function Projects() {
               imgPath={hairsalon}
               isGitHub={false}
               title="HairSalon"
-              description="The HairSalon website is built using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js, providing a robust, scalable, and efficient platform. This technology stack enables a dynamic and responsive user interface, secure user authentication, and real-time online booking capabilities. The site is hosted on Azure, ensuring high availability and fast performance, with features like a detailed service catalog, responsive design for optimal viewing on all devices. It offers delivering a seamless and secure user experience that supports the salon’s growth."
+              description="The HairSalon website is built using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js, providing a robust, scalable, and efficient platform. This technology stack enables a dynamic and responsive user interface, secure user authentication, and real-time online booking capabilities. The site is hosted on Azure, ensuring high availability and fast performance, with features like a detailed service catalog, responsive design for optimal viewing on all devices. It offers delivering a seamless and secure user experience that supports the salon’s growth ."
               demoLink="https://hairssalon.com/"
             />
           </Col>
