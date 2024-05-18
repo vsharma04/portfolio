@@ -9,7 +9,6 @@ function Type() {
           "Software Developer",
           "Frontend Developer",
           "Backend Developer",
-          "Tool Designer",
         ],
         autoStart: true,
         loop: true,

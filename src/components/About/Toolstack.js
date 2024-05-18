@@ -5,7 +5,7 @@ import {
   SiPostman,
   SiGithub,
   SiWindows,
-  SiAdobexd
+  SiFigma
 } from "react-icons/si";
 
 function Toolstack() {
@@ -24,7 +24,7 @@ function Toolstack() {
         <SiGithub />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiAdobexd />
+        <SiFigma />
       </Col>
     </Row>
   );
